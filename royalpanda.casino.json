@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "Royal Panda - Deluxe Casino",
-    "imagePath": "https://raw.githubusercontent.com/EvanFoster1/apps/master/deluxe-slot.jpg",
-    "linkPath": "",
-    "linkAction": "#start",
+    "imagePath": "https://raw.githubusercontent.com/EvanFoster1/apps/master/Royal%20Panda.jpg",
+    "linkPath": "https://tracking.royalpanda.com/redirect.aspx?pid=13975&bid=6035&source=a_2212",
+    "linkAction": "#web",
     "afid": "qGUM8ynRuKxdR5N5LyXd7Z"
   }
 }
